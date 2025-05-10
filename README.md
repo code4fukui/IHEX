@@ -7,7 +7,7 @@ deno -A https://code4fukui.github.io/IHEX/IHEX.js test.ihex test.bin
 ## install
 
 ```sh
-deno install --global -A https://code4fukui.github.io/IHEX/ihex2bin.js
+deno install --global -A ihex2bin.js
 ```
 
 ## reference
