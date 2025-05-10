@@ -1,5 +1,9 @@
 # IHEX
 
+- simple bin decoder from Intel HEX
+
+## ihex2bin
+
 ```sh
 deno -A https://code4fukui.github.io/IHEX/IHEX.js test.ihex test.bin
 ```
