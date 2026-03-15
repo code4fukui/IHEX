@@ -2,12 +2,6 @@
 
 Intel HEXのシンプルなバイナリデコーダ
 
-## デモ
-
-```sh
-deno -A https://code4fukui.github.io/IHEX/IHEX.js test.ihex test.bin
-```
-
 ## 機能
 
 - Intel HEXフォーマットのバイナリデータを解析し、バイナリファイルとして出力する
